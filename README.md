@@ -16,3 +16,9 @@ Esta es la evidencia para constatar que hay cambios
 ## Control de cambios
 
 En la Pregunta 02 se gestionaron cambios entre el Working Directory y el Staging Area.
+
+## Gestión de ramas
+
+Rama utilizada: feature-yaipen.
+Se creó la clase ControlVersion_Yaipen.java para integrarlo con la rama principal.
+
