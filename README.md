@@ -12,3 +12,7 @@ Este repositorio contiene el desarrollo correspondiente a la evaluación T2 del 
 
 ## Evidencia T2
 Esta es la evidencia para constatar que hay cambios
+
+## Control de cambios
+
+En la Pregunta 02 se gestionaron cambios entre el Working Directory y el Staging Area.
